@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio on Miguel Rizzo</title>
+    <link>https://miguelrizzog96.github.io/Miguel_rizzo/</link>
+    <description>Recent content in My Portfolio on Miguel Rizzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://miguelrizzog96.github.io/Miguel_rizzo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medical Appointment no-show EDA and classifier</title>
+      <link>https://miguelrizzog96.github.io/Miguel_rizzo/post/noshow/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://miguelrizzog96.github.io/Miguel_rizzo/post/noshow/</guid>
+      <description>Created a tool that estimates whether a patient will show or not at a scheduled medical appointment (Accuracy=0.75%) to give a better understanding of why the patients would miss an appointment and provide information to clinical facilities for improving efficiency and productivity.  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Discrete Event simulation of a queue using Python.</title>
+      <link>https://miguelrizzog96.github.io/Miguel_rizzo/post/queue/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://miguelrizzog96.github.io/Miguel_rizzo/post/queue/</guid>
+      <description>Generated a Simulation model that outputs the performance measures, such as average length, average waiting time, utilization of the system, etc. to provide information for designing or improving service facilities. Showed that using this approach, system changes and different layouts can be tested without actually having to carry them out physically. Simulated over 1000 customer arrivals and departures using Python.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://miguelrizzog96.github.io/Miguel_rizzo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelrizzog96.github.io/Miguel_rizzo/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/miguel-angel-rizzo/   Twitter: https://twitter.com/miguelrizzog96   GitHub: https://github.com/miguelrizzog96   Email: Miguelrizzog96@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
